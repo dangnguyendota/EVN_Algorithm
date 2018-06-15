@@ -1,0 +1,34 @@
+E:\C#project\EVN\EVN\obj\Debug\EVN.csprojResolveAssemblyReference.cache
+E:\C#project\EVN\EVN\obj\Debug\EVN.csproj.CoreCompileInputs.cache
+E:\C#project\EVN\EVN\bin\Debug\EVN.exe
+E:\C#project\EVN\EVN\bin\Debug\EVN.pdb
+E:\C#project\EVN\EVN\obj\Debug\EVN.exe
+E:\C#project\EVN\EVN\obj\Debug\EVN.pdb
+E:\C#project\EVN\EVN\obj\Debug\EVN.csproj.ResolveComReference.cache
+E:\C#project\EVN\EVN\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Cuongtc\Downloads\EVN\EVN\bin\Debug\EVN.exe
+C:\Users\Cuongtc\Downloads\EVN\EVN\bin\Debug\EVN.pdb
+C:\Users\Cuongtc\Downloads\EVN\EVN\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Cuongtc\Downloads\EVN\EVN\obj\Debug\EVN.csprojResolveAssemblyReference.cache
+C:\Users\Cuongtc\Downloads\EVN\EVN\obj\Debug\EVN.csproj.ResolveComReference.cache
+C:\Users\Cuongtc\Downloads\EVN\EVN\obj\Debug\EVN.csproj.CoreCompileInputs.cache
+C:\Users\Cuongtc\Downloads\EVN\EVN\obj\Debug\EVN.exe
+C:\Users\Cuongtc\Downloads\EVN\EVN\obj\Debug\EVN.pdb
+C:\Users\HELLO DAI K NGUYEN\Desktop\EVN\EVN\bin\Debug\EVN.exe
+C:\Users\HELLO DAI K NGUYEN\Desktop\EVN\EVN\bin\Debug\EVN.pdb
+C:\Users\HELLO DAI K NGUYEN\Desktop\EVN\EVN\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\HELLO DAI K NGUYEN\Desktop\EVN\EVN\obj\Debug\EVN.csprojResolveAssemblyReference.cache
+C:\Users\HELLO DAI K NGUYEN\Desktop\EVN\EVN\obj\Debug\EVN.csproj.ResolveComReference.cache
+C:\Users\HELLO DAI K NGUYEN\Desktop\EVN\EVN\obj\Debug\EVN.csproj.CoreCompileInputs.cache
+C:\Users\HELLO DAI K NGUYEN\Desktop\EVN\EVN\obj\Debug\EVN.exe
+C:\Users\HELLO DAI K NGUYEN\Desktop\EVN\EVN\obj\Debug\EVN.pdb
+D:\evn.git\EVN\EVN\bin\Debug\EVN.exe
+D:\evn.git\EVN\EVN\bin\Debug\EVN.pdb
+D:\evn.git\EVN\EVN\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\evn.git\EVN\EVN\obj\Debug\EVN.csprojResolveAssemblyReference.cache
+D:\evn.git\EVN\EVN\obj\Debug\EVN.csproj.ResolveComReference.cache
+D:\evn.git\EVN\EVN\obj\Debug\EVN.csproj.CoreCompileInputs.cache
+D:\evn.git\EVN\EVN\obj\Debug\EVN.exe
+D:\evn.git\EVN\EVN\obj\Debug\EVN.pdb
+D:\evn.git\EVN\EVN\bin\Debug\Newtonsoft.Json.dll
+D:\evn.git\EVN\EVN\bin\Debug\Newtonsoft.Json.xml
